@@ -13,7 +13,7 @@ There are four files:
   copied with minor changes.
 * [main_test.rego](main_test.rego) shows an end-to-end test of the
   validating and mutating policies.
-* [validating-deny-missing-label.rego](validating-deny-missing-label.rego) shows a trivial validation policy with unit testing.
+* [validate-deny-missing-label.rego](validate-deny-missing-label.rego) shows a trivial validation policy with unit testing.
 * [patch-add-dummy-annotation.rego](patch-add-dummy-annotation.rego)
   shows a trivial mutating policy with unit testing.
 
