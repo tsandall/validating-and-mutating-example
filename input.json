@@ -1,0 +1,11 @@
+{
+    "request": {
+        "object": {
+            "metadata": {
+                "labels": {
+                    "test-opa-patch": "true"
+                }
+            }
+        }
+    }
+}
