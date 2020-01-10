@@ -1,6 +1,6 @@
 # 🛠 Validating and Mutating Admission Control Example 🛠
 
-This repository contains a small example of how to combine validating and mutating admission control policies in OPA using the [entry point contributed to the open-policy-agent/library repostiory](https://github.com/open-policy-agent/library/blob/master/kubernetes/mutating-admission/main.rego).
+This repository contains a small example of how to combine validating and mutating admission control policies in OPA using the [entry point contributed to the open-policy-agent/library repository](https://github.com/open-policy-agent/library/blob/master/kubernetes/mutating-admission/main.rego).
 
 ## Examples
 
